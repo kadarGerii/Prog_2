@@ -7,7 +7,7 @@ int factorial(int n){
     if (n>=1)
         return n*factorial(n-1);
     else
-        return -1;
+        return 1;
 }
 int lnko(int a, int b){
     if(b>a)

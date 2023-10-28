@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
 }</component>
@@ -18,18 +21,102 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0a51078-ccc8-4994-9f9d-267422f8fd1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6/.idea/lab6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6/functions.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6/functions.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/melysegi_bejaras.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/graf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../felkeszules/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../felkeszules/.idea/felkeszules.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../felkeszules/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../felkeszules/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../felkeszules/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../felkeszules/func.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../felkeszules/func.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/.idea/lab11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/func.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/func.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mintaparc2/H/fun.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mintaparc2/S/fun.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a8ed5350a397b76b6f3c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-3ebf9d7ab27ab800a451.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-958d9fcd542eaecfdafd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-05T14-15-27-0185.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/.cmake/api/v1/reply/target-gyakorlas1-Debug-a8a9554c9fd45a6cc3e5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c6a5dca074ad494ab22c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/gyakorlas1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../gyakorlas1/cmake-build-debug/gyakorlas1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyakorlas1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../gyakorlas1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f8576b1e411d7626b878.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-1fe206cd3c6c00801754.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1cf9cf44cd35554a435f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-17T08-40-45-0539.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/.cmake/api/v1/reply/cache-v2-dec8031ab9ef37031ef3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a23ecac6af1ae2e4db07.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f5c29baca3e0919d8961.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/.cmake/api/v1/reply/index-2023-05-04T08-03-59-0814.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/.cmake/api/v1/reply/target-lab10b-Debug-9115ed4160910ca54c5c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c6a5dca074ad494ab22c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10b/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10b/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10b/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/graf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../felkeszules/cmake-build-debug/graf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/cmake-build-debug/lab10b.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10b/cmake-build-debug/lab10b.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10b/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10b/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/Exercises.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/Exercises.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/cmake-build-debug/lab2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/cmake-build-debug/lab2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_b/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/cmake-build-debug/lab3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/cmake-build-debug/lab3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a83bcd599aee81397232.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4dff6261cc1a5317fe7c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-719df548b01bf1fe63ec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-23T08-29-09-0391.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/cmake-build-debug/.cmake/api/v1/reply/target-lab6-Debug-aa4e3f3931468065105c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c6a5dca074ad494ab22c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/cmake-build-debug/lab6.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/cmake-build-debug/lab6.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/functions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a35342c464b4a3a1338e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-01dc401bc5090ed2d18c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d138d5a8b3327027c55a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-30T07-23-04-0229.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/cmake-build-debug/.cmake/api/v1/reply/target-lab7-Debug-a2bf6d125a01e6c59128.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c6a5dca074ad494ab22c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/cmake-build-debug/lab7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/cmake-build-debug/lab7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_9/cmake-build-debug/.cmake/api/v1/reply/cache-v2-605041c65ccb967f4ec7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_9/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-daf3f272a06bce5c88f5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_9/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2db1624137d9197d4df4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_9/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-27T07-26-18-0123.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_9/cmake-build-debug/.cmake/api/v1/reply/target-lab_9-Debug-7cbca3a929aa11ac73e2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_9/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-6972c67fcb9ad0ab2960.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_9/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_9/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_9/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_9/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_9/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_9/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b7868d18f9a5e8d2e5a4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b2f45a47a8ec4c9e7e33.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a253c3c067e1ffd58df6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-22T14-37-15-0071.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-melysegi_bejaras-Debug-0c1957a5f17d0fe6eb57.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c6a5dca074ad494ab22c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/melysegi_bejaras.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/melysegi_bejaras.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +152,10 @@
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -93,6 +183,12 @@
       <workItem from="1679501257056" duration="277000" />
       <workItem from="1679558558714" duration="27000" />
       <workItem from="1680527389738" duration="309000" />
+      <workItem from="1684155022825" duration="23000" />
+      <workItem from="1686574532528" duration="1008000" />
+      <workItem from="1686575565840" duration="27000" />
+      <workItem from="1686575603565" duration="200000" />
+      <workItem from="1695657765076" duration="24000" />
+      <workItem from="1695825121783" duration="46000" />
     </task>
     <servers />
   </component>

@@ -30,7 +30,7 @@ int main() {
     }
     std::cout << elek[0].from + 1 << " " << elek[0].to + 1 << " " << elek[0].length << std::endl;
     csoport[elek[0].to] = csoport[elek[0].from];
-    while(i != n-1){
+    while(i != n){
         if(csoport[elek[i].from] != csoport[elek[i].to]){
             int temp = csoport[elek[i].to];
             for(int j = 0; j < n; ++j){

@@ -1,0 +1,8 @@
+7
+Bacon Barot 2
+Bacon Kezdi 5
+Barot Kommando 3
+Kommando Maros 5
+Kommando Kovaszna 1
+Maros Budapest 7
+Kovaszna Szorcse 4

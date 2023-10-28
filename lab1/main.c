@@ -5,7 +5,7 @@ typedef struct{
     int vegPont;
 }Elek;
 int main() {
-    FILE *fp = fopen("pontPontMatr")
+    FILE *file;
     file.open("pontPontMatrix");
     int csomoPont, el;
     file>>csomoPont;

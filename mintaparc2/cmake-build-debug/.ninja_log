@@ -1,0 +1,9 @@
+# ninja log v5
+0	147	7060370303163391	build.ninja	88ea4eec00a8d7ff
+3	559	7060440494867990	CMakeFiles/mintaparc2.dir/main.cpp.obj	326a843b352ecbde
+8	529	7060381133587784	CMakeFiles/mintaparc2.dir/S/fun.cpp.obj	484c50af8947e62f
+560	641	7060440495664109	mintaparc2.exe	9906ce0f5dde4f55
+3	536	7060440926633690	CMakeFiles/mintaparc2.dir/main.cpp.obj	326a843b352ecbde
+537	619	7060440927428382	mintaparc2.exe	9906ce0f5dde4f55
+2	548	7060441176431377	CMakeFiles/mintaparc2.dir/main.cpp.obj	326a843b352ecbde
+549	635	7060441177264604	mintaparc2.exe	9906ce0f5dde4f55

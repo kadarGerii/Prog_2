@@ -39,8 +39,7 @@ void bfs(int start, int bfsVisited[], vector<int> adjList[],int n){
             int v = adjList[u][j];
             if (bfsVisited[v] == 0) {
                 bfsVisited[v] = 1;
-                ++rear;
-                q[rear] = v;
+                q[++rear] = v;
             }
         } ++head;
     }

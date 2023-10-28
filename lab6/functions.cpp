@@ -126,6 +126,7 @@ void komplementer(){
     for (int i = 0; i < n; ++i) {
         for (int j = 0; j < m; ++j) {
             if (list[i][j] != 1) {
+                std::cout << "Nem egymas komplementerei" << std::endl;
                 return;
             }
         }
